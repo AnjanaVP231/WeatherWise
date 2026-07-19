@@ -1,0 +1,11 @@
+API_KEY = "d6e422b4b1014e77a2c81302261907"
+
+BASE_URL = "http://api.weatherapi.com/v1/current.json"
+
+WINDOW_WIDTH = 550
+WINDOW_HEIGHT = 650
+
+BACKGROUND = "#EAF4FF"
+CARD = "#FFFFFF"
+BUTTON = "#0078D7"
+TEXT = "#222222"
